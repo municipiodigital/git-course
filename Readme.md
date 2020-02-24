@@ -1,5 +1,12 @@
 # Curso Git e Github para iniciantes
 
+## Aula 010
+>
+> ### Comandos mostrados:
+> > *git log*
+> > *git show*
+>
+
 ## Aula 009
 - Untracked
 	- Arquivo que o git ainda não viu;
