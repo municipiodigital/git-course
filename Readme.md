@@ -1,5 +1,13 @@
 # Curso Git e Github para iniciantes
 
+## Aula 015
+**Sincronizando o repositório pela primeira vez**
+>
+> ### Comando mostrados:
+> > *git push -u origin master*
+
+---
+
 ## Aula 012
 >
 > ### Comandos mostrados:
