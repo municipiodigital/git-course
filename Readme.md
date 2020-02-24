@@ -1,5 +1,15 @@
 # Curso Git e Github para iniciantes
 
+## Aula 012
+>
+> ### Comandos mostrados:
+> > *git reset --soft*
+> > *git reset --mixed*
+> > *git reset --hard*
+>
+
+---
+
 ## Aula 011
 >
 > ### Comandos mostrados:
