@@ -1,10 +1,20 @@
 # Curso Git e Github para iniciantes
 
+## Aula 016
+**Sincronizando o repositório várias vezes**
+>
+> ### Comandos mostrados:
+> > git push origin master
+>
+
+---
+
 ## Aula 015
 **Sincronizando o repositório pela primeira vez**
 >
-> ### Comando mostrados:
+> ### Comandos mostrados:
 > > *git push -u origin master*
+>
 
 ---
 
@@ -12,7 +22,9 @@
 >
 > ### Comandos mostrados:
 > > *git reset --soft*
+> >
 > > *git reset --mixed*
+> >
 > > *git reset --hard*
 >
 
@@ -22,6 +34,7 @@
 >
 > ### Comandos mostrados:
 > > *git diff*
+> > 
 > > *git diff --name-only*
 >
 
@@ -31,6 +44,7 @@
 >
 > ### Comandos mostrados:
 > > *git log*
+> > 
 > > *git show*
 >
 
