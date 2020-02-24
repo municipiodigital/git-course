@@ -1,5 +1,14 @@
 # Curso Git e Github para iniciantes
 
+## Aula 011
+>
+> ### Comandos mostrados:
+> > *git diff*
+> > *git diff --name-only*
+>
+
+---
+
 ## Aula 010
 >
 > ### Comandos mostrados:
