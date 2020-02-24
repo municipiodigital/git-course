@@ -13,6 +13,14 @@
 - Staged
 	- Arquivo que serão enviados para o git no commit.
 
+>
+> ### Comandos mostrados:
+> > *git status*
+> > *git add nome_do_arquivo*
+> > *git commit*
+>
+
+
 ---
 
 ## Aula 008
