@@ -1,5 +1,27 @@
 # Curso Git e Github para iniciantes
 
+# Aula 021
+** Deletando branch
+>
+> ### Comandos mostrados:
+> > *git checkout nome_branch*
+> >
+> > *git branch -D nome_branch*
+>
+
+---
+
+# Aula 020
+** Criando um branch
+>
+> ### Comandos mostrados:
+> > *git checkout -b nome_branch*
+> >
+> > *git branch*
+>
+
+---
+
 ## Aula 016
 **Sincronizando o repositório várias vezes**
 >
