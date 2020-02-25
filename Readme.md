@@ -1,10 +1,21 @@
 # Curso Git e Github para iniciantes
 
+# Aula 020
+** Criando um branch
+>
+> ### Comandos mostrados:
+> > *git checkout -b nome_branch*
+> >
+> > *git branch*
+>
+
+---
+
 ## Aula 016
 **Sincronizando o repositório várias vezes**
 >
 > ### Comandos mostrados:
-> > git push origin master
+> > *git push origin master*
 >
 
 ---
