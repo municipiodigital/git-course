@@ -1,7 +1,7 @@
 # Curso Git e Github para iniciantes
 
 # Aula 021
-** Deletando branch
+**Deletando branch**
 >
 > ### Comandos mostrados:
 > > *git checkout nome_branch*
@@ -12,7 +12,7 @@
 ---
 
 # Aula 020
-** Criando um branch
+**Criando um branch**
 >
 > ### Comandos mostrados:
 > > *git checkout -b nome_branch*
@@ -86,7 +86,9 @@
 >
 > ### Comandos mostrados:
 > > *git status*
+> >
 > > *git add nome_do_arquivo*
+> >
 > > *git commit*
 >
 
