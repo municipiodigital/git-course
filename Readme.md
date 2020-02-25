@@ -1,4 +1,4 @@
-jdakslhadhfghfhsafsbhfgasglasçgsualh# Curso Git e Github para iniciantes
+# Curso Git e Github para iniciantes
 
 # Aula 021
 ** Deletando branch
